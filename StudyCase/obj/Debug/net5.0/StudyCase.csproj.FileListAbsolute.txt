@@ -1,0 +1,16 @@
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\obj\Debug\net5.0\StudyCase.csproj.AssemblyReference.cache
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\obj\Debug\net5.0\StudyCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\obj\Debug\net5.0\StudyCase.AssemblyInfoInputs.cache
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\obj\Debug\net5.0\StudyCase.AssemblyInfo.cs
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\obj\Debug\net5.0\StudyCase.csproj.CoreCompileInputs.cache
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\bin\Debug\net5.0\StudyCase.exe
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\bin\Debug\net5.0\StudyCase.deps.json
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\bin\Debug\net5.0\StudyCase.runtimeconfig.json
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\bin\Debug\net5.0\StudyCase.runtimeconfig.dev.json
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\bin\Debug\net5.0\StudyCase.dll
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\bin\Debug\net5.0\ref\StudyCase.dll
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\bin\Debug\net5.0\StudyCase.pdb
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\obj\Debug\net5.0\StudyCase.dll
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\obj\Debug\net5.0\ref\StudyCase.dll
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\obj\Debug\net5.0\StudyCase.pdb
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\StudyCase\obj\Debug\net5.0\StudyCase.genruntimeconfig.cache

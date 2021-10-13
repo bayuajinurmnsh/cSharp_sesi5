@@ -1,0 +1,16 @@
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\bin\Debug\net5.0\Program_1.exe
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\bin\Debug\net5.0\Program_1.deps.json
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\bin\Debug\net5.0\Program_1.runtimeconfig.json
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\bin\Debug\net5.0\Program_1.runtimeconfig.dev.json
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\bin\Debug\net5.0\Program_1.dll
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\bin\Debug\net5.0\ref\Program_1.dll
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\bin\Debug\net5.0\Program_1.pdb
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\obj\Debug\net5.0\Program_1.csproj.AssemblyReference.cache
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\obj\Debug\net5.0\Program_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\obj\Debug\net5.0\Program_1.AssemblyInfoInputs.cache
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\obj\Debug\net5.0\Program_1.AssemblyInfo.cs
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\obj\Debug\net5.0\Program_1.csproj.CoreCompileInputs.cache
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\obj\Debug\net5.0\Program_1.dll
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\obj\Debug\net5.0\ref\Program_1.dll
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\obj\Debug\net5.0\Program_1.pdb
+C:\Users\User\intern_ocbc\c_sharp\sesi_05\Program_1\obj\Debug\net5.0\Program_1.genruntimeconfig.cache
