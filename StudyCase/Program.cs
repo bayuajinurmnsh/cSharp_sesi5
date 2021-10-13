@@ -12,10 +12,10 @@ namespace StudyCase
            
 
             do{
-                Console.WriteLine("Menu 1 untuk pesawat tempur ,\n2 untuk overload, \n3 untuk override , \n4 untuk about");
+                Console.WriteLine("Menu \n1 untuk pesawat tempur \n2 untuk overload \n3 untuk override  \n4 untuk about");
                 Console.Write("Masukkan Pilihan : ");
                 pilihan = int.Parse(Console.ReadLine());
-                
+
                 switch (pilihan)
                 {
                     case 1:{
@@ -70,6 +70,7 @@ namespace StudyCase
                         int val1, val2, val3;
 
                         Overrided oride = new Overrided();
+                        AnakRide oride2 = new AnakRide();
 
                         Console.Write("Masukkan Angka 1      : ");
                         val1 = int.Parse(Console.ReadLine());
@@ -81,8 +82,9 @@ namespace StudyCase
                         val3 = int.Parse(Console.ReadLine());
 
                         oride.bilangan(val1,val2);
+                        oride2.bilangan2(val1,val3);
                         oride.penjumlahanperkalianll();
-                        oride.penjumlahanperkalianll(val3);
+                        oride2.penjumlahanperkalianll();
 
                         break;
                     }case 4:{
@@ -97,7 +99,7 @@ namespace StudyCase
                     }
                 }
 
-                Console.Write("Kembali ke awal ? (y/n) ");
+                Console.Write("\nKembali ke awal ? (y/n) ");
                 ulang = Console.ReadLine();
 
             }while(ulang == "y");
